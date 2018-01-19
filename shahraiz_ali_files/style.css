@@ -70,7 +70,7 @@ a, a:link, a:visited {
 }
 
 a:hover {
-	text-decoration: line-through;
+	text-decoration: underline;
 	cursor: pointer;
 }
 
