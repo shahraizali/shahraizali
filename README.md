@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahraiz</h1>
-<h3 align="center">Coding bug 🐞, Coding Bugs 👨‍💻.</h3>
+<h3 align="center">A Coding bug 🐞, Coding Bugs 👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahraizali" alt="shahraizali" /> </p>
 
