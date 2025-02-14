@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahraizali" alt="shahraizali" /> </p>
 
-- 🌱 I’m currently learning **React, Blockchain**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Django, React Native, PHP**
+- 💬 Ask me about **Django, React, React Native, PHP**
 
 - 📫 Reach me at **shahraizali10@yahoo.com**
 
